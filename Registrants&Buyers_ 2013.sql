@@ -30,11 +30,11 @@ c.[Customer Prev Auctions As Registrant],
 c.[Customer Prev Auctions As Buyer],
 c.[Customer Prev Auctions As Seller],
 e.[Customer Industry Category],
-b.[Auction Year],
-b.[Auction Country],
-b.[Auction Event Name],
-b.[Auction Number],
-b.[Auction Date]
+--b.[Auction Year],
+--b.[Auction Country],
+--b.[Auction Event Name],
+--b.[Auction Number],
+--b.[Auction Date]
 
 --into #temp1
 
